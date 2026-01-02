@@ -12,7 +12,7 @@ Este es un proyecto de consola desarrollado en Python que permite gestionar tare
 2. Ejecuta el archivo *main.py*.
 3. Se abrira el menu en la consola.
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Python 3
 - SQLite3
 - Datetime (Manejo de fechas)
