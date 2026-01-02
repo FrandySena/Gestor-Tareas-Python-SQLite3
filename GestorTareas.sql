@@ -1,5 +1,3 @@
--- #Frandy Sena Taveras 2025-0945
-
 CREATE TABLE IF NOT EXISTS GestorTareas ( 
     ID INTEGER PRIMARY KEY AUTOINCREMENT,
     NombreTarea VARCHAR(100), 
